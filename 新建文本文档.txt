@@ -1,0 +1,3 @@
+查看 ls -a
+加入库 git init
+
